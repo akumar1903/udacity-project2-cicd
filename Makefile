@@ -1,3 +1,6 @@
+setup:
+    python3 -m venv ~/.udacity-project2
+    
 install:
     pip install --upgrade pip &&\
         pip install -r requirements.txt
