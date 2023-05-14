@@ -227,7 +227,7 @@ Stream logs
 
 ![Screen Shot 2023-04-23 at 2.37.03 PM.png](Aspose.Words.833145c8-088b-4e39-984f-4b41d5554cf2.022.png)
 
-Demo Video![![Uploading image.png…]()](Aspose.Words.833145c8-088b-4e39-984f-4b41d5554cf2.023.jpeg)
+Demo Video - https://www.youtube.com/watch?v=_nbsYe5irJA
 
 
 
