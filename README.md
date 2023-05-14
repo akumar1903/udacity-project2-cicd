@@ -1,6 +1,8 @@
 ﻿
 [![Build Status](https://dev.azure.com/arunkumarcg/Flask-ML-Deploy/\_apis/build/status%2Fakumar1903.flask-ml-azure-serverless?branchName=main)](https://dev.azure.com/arunkumarcg/Flask-ML-Deploy/\_build/latest?definitionId=2&branchName=main)
 
+Action Badge Link - [![Build Status](https://dev.azure.com/arunkumarcg/Flask-ML-Deploy/_apis/build/status%2Fakumar1903.flask-ml-azure-serverless?branchName=main)](https://dev.azure.com/arunkumarcg/Flask-ML-Deploy/_build/latest?definitionId=2&branchName=main)
+
 **Azure CI/CD Pipeline** 
 
 **Overview**
